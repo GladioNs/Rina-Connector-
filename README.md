@@ -1,2 +1,3 @@
-# Rina-Connector-
-Rina-Roleplay-SAMP-Login
+# README.txt
+
+- Bu program SAMP istemcisi üzerinden Rina Roleplay oyun hizmetlerine bağlanmanızı sağlar.
